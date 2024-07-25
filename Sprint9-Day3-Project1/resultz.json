@@ -1,0 +1,64 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 4,
+  "numFailedTests": 0,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1721892660932,
+  "success": true,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Başarılı login girişinde localStoragea email adresini kaydediyor.",
+          "status": "passed",
+          "title": "Başarılı login girişinde localStoragea email adresini kaydediyor.",
+          "duration": 730,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresini email inputuna ekleyerek form açılıyor.",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresini email inputuna ekleyerek form açılıyor.",
+          "duration": 705,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresi yoksa focus email inputunda açılıyor",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresi yoksa focus email inputunda açılıyor",
+          "duration": 685,
+          "failureMessages": []
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " localStorageda kayıtlı email adresi varsa focus password inputunda açılıyor",
+          "status": "passed",
+          "title": "localStorageda kayıtlı email adresi varsa focus password inputunda açılıyor",
+          "duration": 761,
+          "failureMessages": []
+        }
+      ],
+      "startTime": 1721892948057,
+      "endTime": 1721892950938,
+      "status": "passed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-zziwh3/src/__tests__/index.test.jsx"
+    }
+  ]
+}
